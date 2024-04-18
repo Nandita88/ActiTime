@@ -36,7 +36,7 @@ public class CustomerModule extends BaseClass {
 	t.getCreateCustomerBtn().click();
 	Thread.sleep(4000);
 	
-//finished	
+// not finished	
 //thankyou 
 }
 }
